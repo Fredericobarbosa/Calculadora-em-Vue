@@ -5,7 +5,6 @@
 ---
 ## Construído com 🛠️ :
 ### A calculadora foi feita a partir do código base disponibilizado pelo Professor <a href="https://github.com/LeonardoRaiz">Leonardo Raiz</a> em seu git;
-### Link dos códigos utilizados: https://github.com/LeonardoRaiz/FATEC/tree/main/Aulas/Desenvolvimento%20Web%20II/2024-1/Aula%2008 
 ### A hospedagem da calculadora foi feita no <a href="https://www.netlify.com/">Netlify</a>;
 ---
 ## Link da calculadora 🖇️:
